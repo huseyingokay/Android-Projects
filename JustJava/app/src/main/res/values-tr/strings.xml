@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="allSum">" Hoşgeldiniz"</string>
+    <string name="chocolate">Çikolata</string>
+    <string name="finalQuantity">Adet:</string>
+    <string name="getName">"Lütfen adınızı giriniz: "</string>
+    <string name="noCho">Çikolata eklenmedi</string>
+    <string name="noWC">Çırpılmış Krema eklenmedi</string>
+    <string name="ordBut">SİPARİŞ</string>
+    <string name="ordSum">SİPARİŞ ÖZETİ</string>
+    <string name="quantity">ADET</string>
+    <string name="thank">Teşekkür ederiz!</string>
+    <string name="toppings">EKLEMELER</string>
+    <string name="total">Toplam:</string>
+    <string name="wcream">Çırpılmış Krema</string>
+    <string name="withCho">Çikolata eklendi</string>
+    <string name="withWC">Çırpılmış Krema eklendi</string>
+</resources>

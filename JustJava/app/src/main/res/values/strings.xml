@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="getName">Please enter your name: </string>
+    <string name="toppings">TOPPINGS</string>
+    <string name="wcream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="ordSum">ORDER SUMMARY</string>
+    <string name="ordBut">ORDER</string>
+
+    <string name="allSum"> " Welcome"
+        <xliff:g id="name" example="Amy" >%s</xliff:g>
+    </string>
+
+    <string name="withWC">Whipped Cream is added</string>
+    <string name="noWC">Whipped Cream is not added</string>
+    <string name="withCho">Chocolate is added</string>
+    <string name="noCho">Chocolate is not added</string>
+    <string name="finalQuantity">Quantity: </string>
+    <string name="total">Total: </string>
+    <string name="thank">Thank you!</string>
+
+</resources>
